@@ -19,7 +19,5 @@ class Solution {
         }
         int[] result = solve(grades);
         Console.WriteLine(String.Join("\n", result));
-        
-
     }
 }
